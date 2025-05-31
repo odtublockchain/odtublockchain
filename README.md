@@ -10,7 +10,7 @@
 
 #### Who Are We? 
 
-***ODTU Blockchain***     was established in 2021 in Ankara, Turkey by Middle East Technical University (METU, also known as *ODTU*    in Turkish) students with the aim of creating an innovative and dynamic community within the *Turkish* and global blockchain ecosystem. We, as ODTU Blockchain, are proudly contributing to the ecosystem for the past 2 years. 🎉
+***ODTU Blockchain***     was established in 2021 in Ankara, Turkey by Middle East Technical University (METU, also known as *ODTU*    in Turkish) students with the aim of creating an innovative and dynamic community within the *Turkish* and global blockchain ecosystem. We, as ODTU Blockchain, are proudly contributing to the ecosystem for the past 4 years. 🎉
 
 Our background in successfully attracting people from all over the country, along with our expertise in organizing global events, gives us influence and recognition as one of the most respected and followed communities in Turkey. Moreover, our experienced developer team positions us as one of the most desirable hubs for future Turkish developers. We have a vast network and close relationships with other communities and can garner support from the entire ecosystem through various channels, including Twitter Spaces, workshops, ranDEVu, and more. 
 
