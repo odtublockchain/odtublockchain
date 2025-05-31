@@ -8,19 +8,14 @@
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucrazku-ftxmugwqi7gdwqna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucrazku-ftxmugwqi7gdwqna" height="30" width="40" /></a>
 </p>
 
-# Misyonumuz ve Vizyonumuz
+#### Who Are We? 
 
-Blockchain Teknolojisi, gelişmiş haliyle 2009 yılında, Satoshi Nakamoto kod adlı bir birey ya da topluluk tarafından halkın kullanımına açılan Bitcoin Blockchain Ağı ile beraber hayatımızda yer edinmeye başladı. 3 Ocak 2009 günü kazılan ilk Bitcoin bloğu ile, insanlar aracı kurumlara ihtiyaç duymadan, birbirleri arasında varlık transferi yapabilme imkanına kavuştular.
+***ODTU Blockchain***     was established in 2021 in Ankara, Turkey by Middle East Technical University (METU, also known as *ODTU*    in Turkish) students with the aim of creating an innovative and dynamic community within the *Turkish* and global blockchain ecosystem. We, as ODTU Blockchain, are proudly contributing to the ecosystem for the past 2 years. 🎉
 
-O günden bugüne devamlı geliştirilerek gelen blockchain ekosistemi, akıllı sözleşmeler ile geliştirilmiş güncel finans sistemini, kodun yasa olduğu Web 3.0 sistemini ve herkesin, internetin olduğu her an erişebileceği merkeziyetsiz uygulamaları insanlığın kullanımına sunmaktadır.
+Our background in successfully attracting people from all over the country, along with our expertise in organizing global events, gives us influence and recognition as one of the most respected and followed communities in Turkey. Moreover, our experienced developer team positions us as one of the most desirable hubs for future Turkish developers. We have a vast network and close relationships with other communities and can garner support from the entire ecosystem through various channels, including Twitter Spaces, workshops, ranDEVu, and more. 
 
-## Misyonumuz;
+At ODTU Blockchain, our primary focus is to support and collaborate with other communities and institutions in Turkey. We aim to contribute to the development of the blockchain ecosystem in our country by engaging in joint projects and initiatives.
 
-Orta Doğu Teknik Üniversitesi öğrencileri olarak, blockchain teknolojisinin gelecek dünyamızı şekillendireceğini ve insanlığa farklı alanlarda tahmin edilemez fırsatlar sunacağını düşünmekteyiz. Bu sebeple, Türkiye ve dünya üzerinde çeşitli başarılara ulaşmış okulumuzun blockchain teknolojisinde de ülkemizde öncü olmasını hedeflemekteyiz.
+-  **Mission** : Our mission is to foster an innovative and dynamic community within the Turkish and global blockchain ecosystem, bringing valuable individuals and ideas into the ecosystem.
 
-
-## Vizyonumuz;
-
-Orta Doğu Teknik Üniversitesi Blockchain Topluluğu olarak, düzenleyeceğimiz eğitimler, etkinlikler ve geliştireceğimiz projeler ile durmadan gelişen bu ekosistemde, inovasyona öncü olmak istiyoruz.
-
-Buna paralel olarak, Türkiye’de aktif faaliyet gösteren diğer topluluklara ve kurumlara yardımcı olmak, onlarla ortak çalışmalar yürütmek ve aynı projelerin altına imza atarak Türkiye’deki blockchain ekosisteminin gelişmesine katkı sağlamak istiyoruz.
+-  **Vision** : As students of Middle East Technical University, we envision a future where blockchain technology shapes the world and creates diverse opportunities across different fields.
